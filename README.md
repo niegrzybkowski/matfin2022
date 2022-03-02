@@ -1,1 +1,1 @@
-# matfin2022
+# Matematyka Finansowa 
